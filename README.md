@@ -1,2 +1,2 @@
-# cake-deployer-recipie
-A deployer recipie I am using to deploy cake apps
+# cake-deployer-recipe
+A deployer recipe I am using to deploy cake apps
